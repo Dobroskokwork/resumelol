@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2 ?family=Roboto&display=swap');
+
+body {
+    background-color: #FFFAF0
+}
+.container {
+    max-width: 900px ;
+    margin: auto;
+    padding-top: 30px;
+    font-family: 'Roboto';
+}
+
+/* О СЕБЕ */
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-style: italic;
+}
+.p2 {
+
+    font-weight:  bold;
+}
+
+.image {
+    margin-right: 20px ;
+    width: 400;
+    border-radius: 30px;
+}
+
+.box1 {
+    display: flex;
+  font-family: 'Roboto', sans-serif;
+  margin-top: 40px;
+    
+}
+
+.box1 p {
+    padding-top: 0px ;
+}
+
+
+/* ЦЕЛИ */
+.purpose {
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-top: 40px ;
+    
+    
+}
+
+.purpose ul {
+    padding-left: 35%
+    
+}
+
+.purpose h2 {
+    text-align: center;
+}
+
+/* ВРЕМЯ */
+.time h2 {
+    text-align: center;
+}
+
+
+
+.time {
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-top: 40px ;
+    
+
+}
+
+.time ul {
+     list-style: none;
+     display: inline-block;
+    margin-left:24% ;
+    margin-bottom: 40px;
+}
+
+
+
+
+/* КУРСЫ */
+.course h2 {
+    text-align: center;
+}
+
+.course {
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-top: 40px ;
+    margin-bottom: 40px;
+    
+
+}
+
+
+.tb2 {
+    
+  padding-left: 38%;
+ 
+   
+   
+}
+.tb2 td {
+    text-align: center;
+    padding-bottom: 20px;
+    
+   
+}
+
+
+
+
+
+/* КОНТАКТЫ */
+.contacts h2 {
+    text-align: center;
+    
+}
+ 
+ .contacts {
+    margin-top: 40px;
+    border: 1px solid black;
+    border-radius: 10px;
+    
+ }
+
+ .soc {
+   
+ }
+ 
+ .i {
+    display: inline-block;
+    box-sizing: border-box;
+    margin-top: 20px;
+    width: 33%;
+    margin-bottom: 40px;
+ }
+ 
+
+ .image1 {
+   width:100px;
+   margin-left:35%
+
+ }
+ .image2 {
+    width:100px;
+    margin-left:35%
+     
+
+ }
+
+ .image3 {
+    width:100px;
+    margin-left:35%
+
+ }
